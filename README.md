@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devanshu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align=left" alt="coding" width="400" sre="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp?cid=6c09b9527yydysiw9vu4um2aujz46snox3omydwdlofcup0b&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g">
+<img align="right" alt="coding" width="400" sre="https://cdn.pixabay.com/animation/2022/08/31/08/22/08-22-29-904_512.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-devanshu&label=@coder-devanshu&color=00ff00&style=flat" alt="coder-devanshu" /> </p>
 
